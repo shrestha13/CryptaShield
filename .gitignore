@@ -1,0 +1,27 @@
+
+---
+
+## ✅ `.gitignore`
+
+```plaintext
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# VSCode / PyCharm / JetBrains settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+
+# Environment files
+.env
+
+# Temporary or output files
+*.decrypted
+*.tmp
+*.log
+
+# Test files
+test_files/
